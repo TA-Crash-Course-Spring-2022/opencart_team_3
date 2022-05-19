@@ -2,8 +2,7 @@ package com.opencart.enums;
 
 public enum Url {
 
-    BASIC_URL("http://localhost/opencart/upload/index.php"),
-    ADMIN_URL("http://localhost/opencart/upload/admin/");
+    BASIC_URL("http://localhost/opencart/upload/index.php");
 
     private final String urlValue;
 
